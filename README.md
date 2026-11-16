@@ -3,11 +3,11 @@
 Desarrollador web y estudiante de Ingeniería Informática en la Universidad de Zaragoza.
 Me gusta tanto el desarrollo como la parte de sistemas.
 
-### 🛠️ Tecnologías
+### Tecnologías
 
-[![Tecnologías](https://skillicons.dev/icons?i=php,laravel,js,nodejs,express,vue,tailwind,mysql,supabase,docker,nginx,linux,git)](https://skillicons.dev)
+[![Tecnologías](https://skillicons.dev/icons?i=html,css,js,php,laravel,git,docker,nodejs,express,vue,tailwind,mysql,supabase,linux)](https://skillicons.dev)
 
-### 🎓 Formación
+### Formación
 
 | Título | Estado | |
 |---|---|---|
@@ -15,7 +15,7 @@ Me gusta tanto el desarrollo como la parte de sistemas.
 | Técnico Superior en Desarrollo de Aplicaciones Web (DAW) | Finalizado | [2daw](https://github.com/rsvisu/2daw) |
 | Técnico en Sistemas Microinformáticos y Redes (SMR) | Finalizado | |
 
-### 🚀 Proyectos
+### Proyectos
 
 | Proyecto | Descripción | Repositorio |
 |---|---|---|
