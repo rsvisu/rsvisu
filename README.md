@@ -27,5 +27,5 @@ Me gusta tanto el desarrollo como la parte de sistemas.
 | Proyecto | Descripción | Repositorio |
 |---|---|---|
 | Nexus | TFG de DAW: asistente con IA para la web del CPIFP Los Enlaces | [PI_NexusBackend](https://github.com/rsvisu/PI_NexusBackend)<br>[PI_NexusWidget](https://github.com/rsvisu/PI_NexusWidget)<br>[PI_NexusDashboard](https://github.com/rsvisu/PI_NexusDashboard) |
-| Red Planet Survivors | Juego cooperativo de supervivencia en Marte para la NASA Space Apps Challenge 2026 ([jugar](https://red-planet-survivors.karu.es/)) | [NasaHackaton_2026](https://github.com/a930853/NasaHackaton_2026) |
+| Red Planet Survivors | Juego cooperativo de supervivencia en Marte para la NASA Space Apps Challenge 2026 | [NasaHackaton_2026](https://github.com/a930853/NasaHackaton_2026) |
 
