@@ -4,7 +4,7 @@ Estudiante de Ingeniería Informática en la Universidad de Zaragoza, Técnico S
 
 ## Tecnologías
 
-[![Tecnologías](https://skillicons.dev/icons?i=html,css,js,git,docker,php,laravel,nodejs,express,vue,tailwind,mysql,supabase,linux)](https://skillicons.dev)
+![Tecnologías](https://skillicons.dev/icons?i=html,css,js,git,docker,php,laravel,nodejs,express,vue,tailwind,mysql,supabase,linux)
 
 ## Proyectos
 
