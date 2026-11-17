@@ -10,6 +10,6 @@ Estudiante de Ingeniería Informática en la Universidad de Zaragoza, Técnico S
 
 | Proyecto | Descripción | Repositorio |
 |---|---|---|
-| Nexus | TFG de DAW: asistente con IA para la web del CPIFP Los Enlaces | [PI_NexusBackend](https://github.com/rsvisu/PI_NexusBackend)<br>[PI_NexusWidget](https://github.com/rsvisu/PI_NexusWidget)<br>[PI_NexusDashboard](https://github.com/rsvisu/PI_NexusDashboard) |
+| Nexus | TFG de DAW: asistente con IA para la web del CPIFP Los Enlaces | [Nexus](https://github.com/rsvisu/Nexus) |
 | Red Planet Survivors | Juego cooperativo de supervivencia en Marte para la NASA Space Apps Challenge 2026 | [NasaHackaton_2026](https://github.com/a930853/NasaHackaton_2026) |
 
