@@ -1,15 +1,10 @@
 # Hola, soy Robert 👋
 
-Desarrollador web y estudiante de Ingeniería Informática en la Universidad de Zaragoza.
-Me gusta tanto el desarrollo como la parte de sistemas.
+Estudiante de Ingeniería Informática en la Universidad de Zaragoza, Técnico Superior en [Desarrollo de Aplicaciones Web](https://github.com/rsvisu/2daw) y Técnico en Sistemas Microinformáticos y Redes. Me gusta tanto el desarrollo como la parte de sistemas.
 
 ## Tecnologías
 
 [![Tecnologías](https://skillicons.dev/icons?i=html,css,js,git,docker,php,laravel,nodejs,express,vue,tailwind,mysql,supabase,linux)](https://skillicons.dev)
-
-## Formación
-
-Estudiando el Grado en Ingeniería Informática en la Universidad de Zaragoza, con los títulos de Técnico Superior en Desarrollo de Aplicaciones Web ([2daw](https://github.com/rsvisu/2daw)) y Técnico en Sistemas Microinformáticos y Redes.
 
 ## Proyectos
 
